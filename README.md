@@ -1,4 +1,5 @@
 # 🏦 Proyecto Devenco - Sistema de Gestión Presupuestaria
+![image](https://github.com/user-attachments/assets/c83d696d-176f-44a9-a932-11d1805e53ff)
 
 ## 📌 Descripción del Proyecto
 El proyecto Devenco es una solución integral desarrollada para la gestión de presupuestos externos, implementando un sistema de base de datos robusto en Oracle, interfaces de usuario en Java bajo el patrón MVC (Modelo-Vista-Controlador), y un dashboard analítico creado en Power BI.)
