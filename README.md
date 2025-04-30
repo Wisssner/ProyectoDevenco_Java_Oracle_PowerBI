@@ -9,7 +9,7 @@ El proyecto Devenco es una solución integral desarrollada para la gestión de p
 1. [Introducción](#-introducción)
 2. [Tecnologías Clave](#-tecnologías-clave)
 3. [Estructura del Proyecto](#-estructura-del-proyecto)
-
+3. [Estructura del Proyecto](#-conclusión)
 
 ## 🔍 Introducción
 Sistema diseñado para instituciones que requieren:  
